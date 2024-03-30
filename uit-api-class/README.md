@@ -21,7 +21,7 @@ Requirements:
         * Grade/Class
 
 
-* Testing:\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+* Testing:
     * Postman, or similar tools.
 * Submission Guidelines:
     * Submit Python code through your public git repo using the google form here https://forms.gle/J7jEqfmqbY1UUfsF9.
